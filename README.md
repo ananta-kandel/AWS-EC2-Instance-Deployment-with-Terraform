@@ -47,16 +47,16 @@ It attaches a specified key pair for SSH access and a custom security group to m
 
 1. **Before Running Terraform Apply**
    
-![description](images/BeforeRunningTerraformApply.png)
+![description](Images/BeforeRunningTerraformApply.png)
 
 2. **After Running Terraform Apply**
  
-![description](images/AfterRunnigTerraformApply.png)
+![description](Images/AfterRunnigTerraformApply.png)
 
 3. **Security Rule Created**
 
-![description](images/SecurityRuleCreated.png)
+![description](Images/SecurityRuleCreated.png)
 
 4. **SSH to Created Instance**
 
-![description](images/SSHtoCreatedInstanc.png)
+![description](Images/SSHtoCreatedInstanc.png)
