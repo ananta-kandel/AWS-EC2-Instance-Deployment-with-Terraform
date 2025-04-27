@@ -59,4 +59,4 @@ It attaches a specified key pair for SSH access and a custom security group to m
 
 4. **SSH to Created Instance**
 
-![description](Images/SSHtoCreatedInstanc.png)
+![description](Images/SSHtoCreatedInstance.png)
