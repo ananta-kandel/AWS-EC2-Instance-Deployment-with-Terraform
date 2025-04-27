@@ -26,7 +26,7 @@ It attaches a specified key pair for SSH access and a custom security group to m
 1. **Clone this repository:**
    ```bash
    https://github.com/ananta-kandel/AWS-EC2-Instance-Deployment-with-Terraform
-   cd your-repo-name
+   cd AWS-EC2-Instance-Deployment-with-Terraform
 2. **Initialize Terraform:**
    ```bash
    terraform init
